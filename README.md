@@ -48,3 +48,7 @@ Resource Management: Applied the StartScheduler() pattern for CPU time allocatio
 
 I/O Logic: Implemented bounded frequency control (100ms–2000ms) with increment/decrement logic and crash protection.
 
+
+
+Implemented as a part of the Introduction to Robotics Curriculum
+
